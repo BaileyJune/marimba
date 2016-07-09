@@ -1,4 +1,0 @@
-sceneSetups:
-- path: D:/unityproject/marimba/Assets/SteamVR/Scenes/example.unity
-  isLoaded: 1
-  isActive: 1
